@@ -11,7 +11,7 @@ echo '###########################################'
 echo "   Sunucu adresi: $IP"
 echo 'Kullanici adi ve sifreniz putty e giris yaptiginiz bilgilerle ayni.'
 echo 'Bir sorun olusursa kendi basiniza cozmeye calisin.'
-echo 'www.nepix.net / www.nepix.me'
+echo 'www.nepix.net / www.nepix.me / nepix.org / nepix.gen.tr'
 echo '###########################################'
 
 exit
